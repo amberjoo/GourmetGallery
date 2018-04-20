@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GourmetGallery</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="sign_out_fragment">Sign out</string>
+    <string name="google_map_API_key">AIzaSyCEa1_fTO5h_sCM-HyZcmnSMhrZvnor10U</string>
+
+</resources>
